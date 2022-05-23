@@ -1,10 +1,10 @@
 ---
 layout: page
-course: "sbe306"
+course: "PUE 3141"
 category: "assignment"
 year: "2020"
 title:  "Assignment 1: Binary Tree Traversal"
-pdf: true
+pdf: flase
 ---
 
 ## Deadline
@@ -15,7 +15,7 @@ Deadline for online submission will be  on  **Tuesday 29/12/2020 11:59 PM**
 
 This is an individual assignment 
 
-1. Go to the [Assignment Page](https://classroom.github.com/a/Uce3GaNR).
+1. Go to the [Assignment Page](https://classroom.github.com/classrooms/105723280-advanced-digital-systems-design).
 2. Accept the assignment.
 3. Wait till your repository created.
 4. Open the link and Clone repository.
