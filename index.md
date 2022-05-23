@@ -1,23 +1,24 @@
 ---
 layout: coursepage
 category: "coursepage"
-course: "CMP2241"
-year: "2020"
+course: "PUE 3141"
+year: "2022"
 ---
-# Data Structures \(SBE201\) - Fall 2020
+# Advanced Digital Systems Design \(PUE 3141\) - Summer 2022
 
 ## Teaching Staff
 
-Instructor: Dr. Eman Marzaban , Assoc. Prof. Mahmoud Ismaiel  
-Demonstrator:  Eng. Ayman Anwar
+Instructors: Dr. Ahmed A.Rahman A. Ali , 
+             Dr. Mutugi Kiruki, 
+Demonstrator:  Eng. 
 
 
 ## Section Hours
-| Section | Day | Time Slot | Place |
-|---------|-----|-----------|----|
-|   1     | Sunday | 3rd | Computer Lab 1 |
-|   2     | Sunday | 4th | Computer Lab 1 |
-|   3     | Sunday | 5th | Computer Lab 1 |
+| Section | Day    | Time Slot | Place          |
+|---------|--------|-----------|----------------|
+|   1     | Sunday | 3rd       | Computer Lab 1 |
+|   2     | Sunday | 4th       | Computer Lab 1 |
+|   3     | Sunday | 5th       | Computer Lab 1 |
 
 ## Office Hours
 
@@ -26,16 +27,16 @@ Demonstrator:  Eng. Ayman Anwar
 | Sunday | from **9am** to **12pm** |
 | Thurusday | from **1pm** to **4pm** |
 
-extra office hours requested via E-Mail to **ayman.m.anwar@eng.cu.edu.eg** (Subject : EXOFH)
+extra meetings requested via E-Mail to **mogwari2000@yahoo.com** (Subject : PUE 3141)
 
 ## Course Outline
-| Week | Content | Tasks |
-|------|----------------------|-----------|
-| 1 | Java Basics; OOB basics |  |
-| 2 | Inheritance, Interfaces and Abstracts |  |
-| 3 | Fundamental Data Structure |  |
-| 4 | Algorithm Analysis and Sorting Algorithms |  |
-| 5 | Recursion and Sorting Algorithms |  |
+| Week | Content                                   | Tasks     |
+|------|-------------------------------------------|-----------|
+| 1    | Java Basics; OOB basics                   |           |
+| 2    | Inheritance, Interfaces and Abstracts     |           |
+| 3    | Fundamental Data Structure                |           |
+| 4    | Algorithm Analysis and Sorting Algorithms |           |
+| 5    | Recursion and Sorting Algorithms          |           |
 
 ## Sections
 * Week 1:
