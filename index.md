@@ -77,7 +77,7 @@ extra office hours requested via E-Mail to **ayman.m.anwar@eng.cu.edu.eg** (Subj
     * Binary Trees: 
         * [notes]({{ site.baseurl }}){:target="_blank"} 
         * [video](https://drive.google.com/file/d/1pKraOYmGhJV-JIWsn4xq0f1pp8BREqNs/view?usp=sharing)
-        * [Assignment-1]({{ site.baseurl }}{% link %}){:target="_blank"} 
+        * [Assignment-1]({{ site.baseurl }}){:target="_blank"} 
 
 * week 8:
     * Priority Queues: 
