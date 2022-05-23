@@ -1,0 +1,11 @@
+./index.html
+.sass-cache
+.jekyll-metadata
+_site/*
+.DS_Store
+/vendor
+.vscode/*
+.ipynb_checkpoints
+**/CMakeLists.txt.user
+**/CMakeLists.txt.user*
+**/build-*
