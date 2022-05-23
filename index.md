@@ -16,11 +16,11 @@ year: "2022"
 
 ## Section Hours
 
-| Section | Day    | Time Slot | Place          |
-|---------|--------|-----------|----------------|
-|   1     | Sunday | 3rd       | Computer Lab 1 |
-|   2     | Sunday | 4th       | Computer Lab 1 |
-|   3     | Sunday | 5th       | Computer Lab 1 |
+| Section   | Day    | Time Slot | Place          |
+|-----------|--------|-----------|----------------|
+|   one     | Sunday | 3rd       | Computer Lab 1 |
+|   two     | Sunday | 4th       | Computer Lab 1 |
+|   three   | Sunday | 5th       | Computer Lab 1 |
 
 ## Office Hours
 
