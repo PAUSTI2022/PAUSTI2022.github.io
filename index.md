@@ -15,11 +15,12 @@ year: "2022"
 
 
 ## Section Hours
- | Section | Day    | Time Slot | Place          |
- |---------|--------|-----------|----------------|
- |   1     | Sunday | 3rd       | Computer Lab 1 |
- |   2     | Sunday | 4th       | Computer Lab 1 |
- |   3     | Sunday | 5th       | Computer Lab 1 |
+
+| Section | Day    | Time Slot | Place          |
+|---------|--------|-----------|----------------|
+|   1     | Sunday | 3rd       | Computer Lab 1 |
+|   2     | Sunday | 4th       | Computer Lab 1 |
+|   3     | Sunday | 5th       | Computer Lab 1 |
 
 ## Office Hours
 
@@ -31,6 +32,7 @@ year: "2022"
 * extra meetings requested via E-Mail to **mogwari2000@yahoo.com** (Subject : PUE 3141)
 
 ## Course Outline
+
 | Week | Content                                                                     | Tasks     |
 |------|-----------------------------------------------------------------------------|-----------|
 | 1    | Overview of digital logic design methodology                                |           |
