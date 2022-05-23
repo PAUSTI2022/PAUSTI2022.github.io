@@ -43,43 +43,43 @@ extra office hours requested via E-Mail to **ayman.m.anwar@eng.cu.edu.eg** (Subj
     * Java Installation: [windows-installations](https://youtu.be/vRILBeMCOp4) [linux-installations](https://youtu.be/Vc3z48_Gx3E)
     * Intro to Java:  [notes]({{ site.baseurl }}){:target="_blank"} [video](https://drive.google.com/file/d/1NqpNu_gORITvv4tkW3f7ca2murjxFc9o/view?usp=sharing)
 * week 2:
-    * Object-Oriented Design **Inheritance**: [notes]({{ site.baseurl }}{% link %}){:target="_blank"} [video](https://drive.google.com/file/d/1bJS0QksD4woKuSjlniy2Aasiu6VOSXPS/view?usp=sharing)
+    * Object-Oriented Design **Inheritance**: [notes]({{ site.baseurl }}){:target="_blank"} [video](https://drive.google.com/file/d/1bJS0QksD4woKuSjlniy2Aasiu6VOSXPS/view?usp=sharing)
     * Object-Oriented Design **Interfaces and Abstracts**: [notes]({{ site.baseurl }}){:target="_blank"} [video](https://drive.google.com/file/d/1n1tq4yrlnTrjM8mqBGvXITECUBsDxVtT/view?usp=sharing)
 * week 3:
-    * Fundamental Data Structure **Arrays**: [notes]({{ site.baseurl }}{% link %}){:target="_blank"} [video](https://drive.google.com/file/d/1fsjv0i2i9Qa5KYkhtreY0UoMghwgwuAF/view?usp=sharing)
+    * Fundamental Data Structure **Arrays**: [notes]({{ site.baseurl }}){:target="_blank"} [video](https://drive.google.com/file/d/1fsjv0i2i9Qa5KYkhtreY0UoMghwgwuAF/view?usp=sharing)
     * Fundamental Data Structure **Linked-Lists**: [notes]({{ site.baseurl }}){:target="_blank"} [video](https://drive.google.com/file/d/12D1NJS0eKnmjFWJDau2kBOFubTUBBeXR/view?usp=sharing)
 * week 4:
     * Time Complexity (Big O notation) & Sorting Algorithms: 
-        * [presentation]({{ site.baseurl }}{% link %})
-        * [notes]({{ site.baseurl }}{% link %}){:target="_blank"} 
+        * [presentation]({{ site.baseurl }})
+        * [notes]({{ site.baseurl }}){:target="_blank"} 
         * [video](https://drive.google.com/file/d/1rJwRwqmbm8xcVm8jnl8dUJdGp-FIRf9v/view?usp=sharing)
 * week 5:
     * Recursion (Linear and Binary Recursion): 
-        * [notes]({{ site.baseurl }}{% link %}){:target="_blank"} 
+        * [notes]({{ site.baseurl }}){:target="_blank"} 
         * [video](https://drive.google.com/file/d/1oj-usExeBumaZiJweRv-53TyxoKOkXSS/view?usp=sharing)
     *  Divide and Conquer design pattern (merge and quick sorting algorithms):
-        * [notes]({{ site.baseurl }}{% link %}){:target="_blank"} 
+        * [notes]({{ site.baseurl }}){:target="_blank"} 
         * [video](https://drive.google.com/file/d/1HAbltcJwgZwtcDctQKunj-5wEgcfJkON/view?usp=sharing)
 * week 6:
     * Stacks: 
-        * [notes]({{ site.baseurl }}{% link  %}){:target="_blank"} 
+        * [notes]({{ site.baseurl }}){:target="_blank"} 
         * [video](https://drive.google.com/file/d/182a2mt4E6UJo7yjjDPTbRxdzF8RmA0fY/view?usp=sharing)
     *  Queues:
-        * [notes]({{ site.baseurl }}{% link  %}){:target="_blank"} 
+        * [notes]({{ site.baseurl }}){:target="_blank"} 
         * [video](https://drive.google.com/file/d/1E7kN52qDsCIYK3kmobnoXxY5yBoWQNFX/view?usp=sharing)
 * week 7:
-    * [Revision Sheet]({{ site.baseurl }}{% link  %}){:target="_blank"} 
+    * [Revision Sheet]({{ site.baseurl }}){:target="_blank"} 
     * [Extra Resources](https://www.cs.colorado.edu/~main/javasupp/question.html)
     * List and Iterator ADTs: 
-        * [notes]({{ site.baseurl }}{% link  %}){:target="_blank"} 
+        * [notes]({{ site.baseurl }}){:target="_blank"} 
         * [video](https://drive.google.com/file/d/1eNvsyizjGr9EwEPuo0aNdGZHY6J4Hn6R/view?usp=sharing)
 * week 8:
     * Binary Trees: 
-        * [notes]({{ site.baseurl }}{% link %}){:target="_blank"} 
+        * [notes]({{ site.baseurl }}){:target="_blank"} 
         * [video](https://drive.google.com/file/d/1pKraOYmGhJV-JIWsn4xq0f1pp8BREqNs/view?usp=sharing)
         * [Assignment-1]({{ site.baseurl }}{% link %}){:target="_blank"} 
 
 * week 8:
     * Priority Queues: 
-        * [notes]({{ site.baseurl }}{% link %}){:target="_blank"} 
+        * [notes]({{ site.baseurl }}){:target="_blank"} 
         * [video](https://drive.google.com/file/d/1zczYm6OD7tEx7tqEugJ3bad7LPV4InHN/view?usp=sharing)
