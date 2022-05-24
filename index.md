@@ -16,18 +16,17 @@ year: "2022"
 
 ## Section Hours
 
-| Section   | Day    | Time Slot | Place          |
-|-----------|--------|-----------|----------------|
-|   one     | Sunday | 3rd       | Computer Lab 1 |
-|   two     | Sunday | 4th       | Computer Lab 1 |
-|   three   | Sunday | 5th       | Computer Lab 1 |
+| Section   | Day       | Time Slot | Place          |
+|-----------|-----------|-----------|----------------|
+|   1       | Wednesday | 1st       | Computer Lab 1 |
+|   2       | Wednesday | 4rd       | Computer Lab 1 |
 
 ## Office Hours
 
 | Day        | Time                     |
 |------------|--------------------------|
-| Sunday     | from **9am** to **12pm** |
-| Thurusday  | from **1pm** to **4pm**  |
+| xxxday     | from **9am** to **12pm** |
+| xxxday     | from **1pm** to **4pm**  |
 
 * extra meetings requested via E-Mail to **mogwari2000@yahoo.com** (Subject : PUE 3141)
 
@@ -44,7 +43,9 @@ year: "2022"
 
 ## Sections
 * Week 1:
-   
+   * course Intro: [video](https://drive.google.com/file/d/1eOEX5aJuV5WMb1TvYun2YVzdWv1Pp1az/view?usp=sharing)
+   * Git & GitHub Introduction: [windows-installations](https://youtu.be/vRILBeMCOp4) [linux-installations](https://youtu.be/Vc3z48_Gx3E)
+   * Git & GitHub Installation:  [notes]({{ site.baseurl }}){:target="_blank"} [video](https://drive.google.com/file/d/1NqpNu_gORITvv4tkW3f7ca2murjxFc9o/view?usp=sharing)
 * week 2:
     
 * week 3:
