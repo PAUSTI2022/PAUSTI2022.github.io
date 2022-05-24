@@ -10,11 +10,21 @@ year: "2022"
 
  ## Course Schedlue
 
-| Week | Content                                                                     | Tasks     |
-|------|-----------------------------------------------------------------------------|-----------|
-| 1    | Overview of digital logic design methodology                                |           |
-| 2    | Hardware Description Languages (HDL): VHDL                                  |           |
-| 3    | Synthesis                                                                   |           |
-| 4    | Design and synthesis of data path controllers and floating point processors |           |
-| 5    | Programmable Logic and storage devices                                      |           |
-| 6    | Post-synthesis designs, simulation and testing of processors                |           |
+| Month | Day | Lecture                                       |
+|-------|-----|-----------------------------------------------|
+| May   | 25  | Overview: Digital Logic Design Methodology    |
+| June  | 01  | VHDL                                          | 
+| June  | 08  | VHDL                                          |
+| June  | 15  | VHDL                                          |
+| June  | 22  | VHDL                                          |
+| June  | 29  | Synthesis in Verilog                          |
+| July  | 06  | Synthesis in VHDL                             |
+| July  | 13  | Design and synthesis                          |
+| July  | 20  | Design and synthesis                          |
+| July  | 27  | Post-synthesis                                |
+| Aug   | 03  | Post-synthesis                                |
+| Aug   | 10  | Post-synthesis                                |
+| Aug   | 17  | Post-synthesis                                |
+| Aug   | 24  | Post-synthesis                                |
+| Aug   | 31  | Post-synthesis                                |
+| Sep   | 07  | Post-synthesis                                |
