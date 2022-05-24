@@ -46,7 +46,7 @@ year: "2022"
    * course Intro: [video](video link at google drive) [notes] (ppt presentation)
    * Git & GitHub Introduction: [windows-installations](video link at google drive) [linux-installations](video link at google drive) [notes] (ppt presentation)
    * Git & GitHub Installation:  [notes](ppt presentation)[video](video link at google drive)
-   * Assignment: [Assignment-1]({{site.baseurl}}{%link}){:target="_blank"}
+   * Assignment: [Assignment-1]({{site.baseurl}}{% link 2022/}){:target="_blank"}
    
 * week 2:
     
