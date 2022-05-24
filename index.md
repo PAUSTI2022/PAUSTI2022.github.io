@@ -46,7 +46,7 @@ year: "2022"
    * course Intro: [video](video link at google drive) [notes] (ppt presentation)
    * Git & GitHub Introduction: [windows-installations](video link at google drive) [linux-installations](video link at google drive) [notes] (ppt presentation)
    * Git & GitHub Installation:  [notes](ppt presentation)[video](video link at google drive)
-   * Assignment -1 
+   * Assignment -1({{ site.baseurl }}{% link 2022/adv-digi-des/assignments/assignment1.md %}){:target="_blank"} 
 * week 2:
     
 * week 3:
