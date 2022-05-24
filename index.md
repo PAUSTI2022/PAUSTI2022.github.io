@@ -41,9 +41,12 @@ year: "2022"
 | 5    | Programmable Logic and storage devices                                      |           |
 | 6    | Post-synthesis designs, simulation and testing of processors                |           |
 
+## Course Schedule
+* The Course Schedlue: [Schedule]({{ site.baseurl }}/README.md){:target="_blank"}
+
 ## Sections
 * Week 1:
-   * course Intro: [video](video link at google drive) [notes] (pptfsdsadsad presentation)
+   * course Intro & overview: Digital logic design methodolgy. [video](video link at google drive) [notes] (pptfsdsadsad presentation)
    * Git & GitHub Introduction: [windows-installations](video link at google drive) [linux-installations](video link at google drive) [notes] (ppt presentation)
    * Git & GitHub Installation:  [notes](ppt presentation)[video](video link at google drive)
    * Assignment: [Assignment-1]({{ site.baseurl }}{% link 2022/adv-digi-des/assignments/assignment1.md %}){:target="_blank"}
