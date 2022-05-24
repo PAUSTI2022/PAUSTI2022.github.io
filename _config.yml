@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tutorials for SBME Students 
-author: Asem Alaa
-email: asem.a.abdelaziz@gmail.com
+title: Tutorials for PUE 3141 Students 
+author: Ahmed Abdelrahman
+email: mogwari200@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
   These pages contain online teaching materials prepared by teaching assistants
-  in the biomedical engineering department at Cairo University.
+  in the INSTITUTE FOR BASIC SCIENCES, TECHNOLOGY AND INNOVATION at PAN african University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  A-Alaa
+twitter_username: Mogwari
+github_username: ahmedtaipei
 
 # Google Analytics
 google_analytics: UA-136835686-1
