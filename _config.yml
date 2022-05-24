@@ -13,18 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: PUE 3141 Advanced Digital Systems Design 
-email: mogwari2000@yahoo.com
+title: Tutorials for SBME Students 
+author: Asem Alaa
+email: asem.a.abdelaziz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The aim of this course is to provide the students with in-depth design methodology of digital integrated circuits using HDLs and field-programmable gate array (FPGA) implementations.
-  in the INSTITUTE FOR BASIC SCIENCES, TECHNOLOGY AND INNOVATION at PAN AFRICAN UNIVERSITY.
+  These pages contain online teaching materials prepared by teaching assistants
+  in the biomedical engineering department at Cairo University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Mogwari
-github_username:  ahmedtaipei
+twitter_username: 
+github_username:  A-Alaa
 
 # Google Analytics
-google_analytics: G-972DQ8BTVQ
+google_analytics: UA-136835686-1
 
 # Build settings
 markdown: kramdown
