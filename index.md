@@ -43,9 +43,9 @@ year: "2022"
 
 ## Sections
 * Week 1:
-   * course Intro: [video](https://drive.google.com/file/d/1eOEX5aJuV5WMb1TvYun2YVzdWv1Pp1az/view?usp=sharing)
-   * Git & GitHub Introduction: [windows-installations](https://youtu.be/vRILBeMCOp4) [linux-installations](https://youtu.be/Vc3z48_Gx3E)
-   * Git & GitHub Installation:  [notes]({{ site.baseurl }}){:target="_blank"} [video](https://drive.google.com/file/d/1NqpNu_gORITvv4tkW3f7ca2murjxFc9o/view?usp=sharing)
+   * course Intro: [video](video link at google drive) [notes] (ppt presentation)
+   * Git & GitHub Introduction: [windows-installations](video link at google drive) [linux-installations](video link at google drive) [notes] (ppt presentation)
+   * Git & GitHub Installation:  [notes](ppt presentation)[video](video link at google drive)
 * week 2:
     
 * week 3:
