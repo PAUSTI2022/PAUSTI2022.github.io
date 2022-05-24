@@ -42,7 +42,7 @@ year: "2022"
 | 6    | Post-synthesis designs, simulation and testing of processors                |           |
 
 ## Course Schedule
-* The Course Schedlue: [Schedule]({{ site.baseurl }}/schedule.md){:target="_blank"}
+* The Course Schedlue: [Schedule]({{ site.baseurl }}{% link 2022/adv-digi-des/schedule.md %}){:target="_blank"}
 
 ## Sections
 * Week 1:
