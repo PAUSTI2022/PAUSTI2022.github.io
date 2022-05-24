@@ -2,14 +2,14 @@
 layout: page
 course: "PUE 3141"
 category: "assignment"
-year: "2020"
-title:  "Assignment 1: Binary Tree Traversal"
+year: "2022"
+title:  "Assignment 1: write VHDL entity and architcture"
 pdf: flase
 ---
 
 ## Deadline
 
-Deadline for online submission will be  on  **Tuesday 29/12/2020 11:59 PM**
+Deadline for online submission will be  on  **Tuesday 08/06/2022 11:59 PM**
 
 ## Joining to Assignment Repository
 
@@ -22,9 +22,9 @@ This is an individual assignment
 
 ## Requirments
 
-Use the binary Tree implemented in tutorial 8 and add the following functions:
-1. Preorder function to traverse the tree in postorder manner 
-2. Postorder function to traverse the tree in postorder manner
+Use the VHDL code implemented in lecture 1 and add the following steps:
+1. xxxxxxxxxxxxx 
+2. xxxxxxxxxxxxx
 
 
 ## Important Notes 
