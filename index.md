@@ -16,10 +16,10 @@ year: "2022"
 
 ## Section Hours
 
-| Section   | Day       | Time Slot | Place          |
-|-----------|-----------|-----------|----------------|
-|   1       | Wednesday | 1st       | Computer Lab 1 |
-|   2       | Wednesday | 4rd       | Computer Lab 1 |
+| Section   | Day       | Time Slot | Place                  |
+|-----------|-----------|-----------|------------------------|
+|   1       | Wednesday | 1st(8.30 - 11.30) | Computer Lab 1 |
+|   2       | Wednesday | 4rd(2.30 - 5.30)  | Computer Lab 1 |
 
 ## Office Hours
 
@@ -46,7 +46,7 @@ year: "2022"
    * course Intro: [video](video link at google drive) [notes] (ppt presentation)
    * Git & GitHub Introduction: [windows-installations](video link at google drive) [linux-installations](video link at google drive) [notes] (ppt presentation)
    * Git & GitHub Installation:  [notes](ppt presentation)[video](video link at google drive)
-   *  [Assignment-1]({{ site.baseurl }}{% link 2022/adv-digi-des/assignments/assignment1.md %}){:target="_blank"} 
+   * Assignment: [Assignment-1](https://github.com/PAUSTI2022/PAUSTI2022.github.io/2022/adv-digi-des/assignments/assignment1.md) 
    
 * week 2:
     
