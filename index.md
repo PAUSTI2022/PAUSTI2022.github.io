@@ -44,9 +44,6 @@ year: "2022"
 ## Course Schedule
 * [Schedule]({{ site.baseurl }}{% link 2022/adv-digi-des/schedule.md %}){:target="_blank"}
 
-## Course bibliography
-* [bibliography]({{ site.baseurl }}{% link 2022/adv-digi-des/_bibliography/references.bib %}){:target="_blank"}
-
 ## Sections
 * Week 1:
    * course Intro & overview: Digital logic design methodolgy. [video](video link at google drive) [notes] (pptfsdsadsad presentation)
