@@ -28,7 +28,8 @@ year: "2022"
 | xxxday     | from **9am** to **12pm** |
 | xxxday     | from **1pm** to **4pm**  |
 
-* extra meetings requested via E-Mail to **mogwari2000@yahoo.com** (Subject : PUE 3141)
+* For requesting additional discussion requested via E-Mail to **mogwari2000@yahoo.com** (Subject : PUE 3141)
+* For requesting additional office hours requested via E-Mail to **rkiruki@uonbi.ac.ke** (Subject : PUE 3141)
 
 ## Course Outline
 
