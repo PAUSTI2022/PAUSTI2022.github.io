@@ -50,7 +50,7 @@ year: "2022"
 
 ## Sections
 * Week 1:
-   * course Intro & overview: Digital logic design methodolgy. [video](video link at google drive) [notes] (pptfsdsadsad presentation)
+   * course Intro & overview: Digital logic design methodolgy. [notes] ({{ site.baseurl }}{% link 2022/adv-digit-des/presentations/PUE_3141_LECTURES_1A.pdf %}){:target="_blank"}
    * Git & GitHub Introduction: [windows-installations](video link at google drive) [linux-installations](video link at google drive) [notes] (ppt presentation)
    * Git & GitHub Installation:  [notes](ppt presentation)[video](video link at google drive)
    * Assignment: [Assignment-1]({{ site.baseurl }}{% link 2022/adv-digi-des/assignments/assignment1.md %}){:target="_blank"}
