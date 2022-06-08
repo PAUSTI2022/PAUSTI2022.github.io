@@ -5,7 +5,7 @@ course: "PUE 3141"
 year: "2022"
 ---
 # Advanced Digital Systems Design \(PUE 3141\) - Summer 2022
-[PAN AFRICAN UNIVERSITY INSTITUTE FOR BASIC SCIENCES, TECHNOLOGY AND INNOVATION]{% link https://pau-au.africa/institutes/pausti %}){:target="_blank"}
+[PAN AFRICAN UNIVERSITY INSTITUTE FOR BASIC SCIENCES, TECHNOLOGY AND INNOVATION](https://pau-au.africa/institutes/pausti)(:target="_blank")
 
 ## Teaching Staff
 
