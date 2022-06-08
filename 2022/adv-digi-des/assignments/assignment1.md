@@ -22,8 +22,8 @@ This is an individual assignment
 
 ## Requirments
 
-Use your background information and the information given to you today.
-[Assignement 1]({{ site.baseurl }}{% link 2022/adv-digi-des/assignments/Assignment_Lecture_1.pdf %}){:target="_blank"}
+* Use your background information and the information given to you today.
+* [Assignement 1]({{ site.baseurl }}{% link 2022/adv-digi-des/assignments/Assignment_Lecture_1.pdf %}){:target="_blank"}
 
 ## Important Notes 
 * You are allowed to discuss task problems with your mates.
