@@ -36,14 +36,17 @@ Use your background information and the information given to you today.
 
 
 * 1. Simplify the following Boolean expression:
-
+![tri](equ1.png)
 
 * 2. Give the following logic expressions as a function of minterms and hence simplify using a K-map.
+![tri](equ2.png)
 
 * 3. Review the following combinational logic modules (symbols & brief description):
 Multiplexer, binary decoder, magnitude comparator, Adders (full & half-adder)
 
 * 4. A sequential logic circuit consists of two JK FFs as shown below. Assuming that both flip-flops are initially cleared, obtain the output signal waveforms Q1 and Q0 for 5 clock pulses.
+![tri](diag1.png)
+
 
 ### Submitting
 
