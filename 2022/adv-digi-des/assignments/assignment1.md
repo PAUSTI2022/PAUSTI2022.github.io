@@ -32,9 +32,6 @@ Use your background information and the information given to you today.
 * It is not allowed to see others solution before submitting.
 * Report must include summary about your implementation, sample results and issues that you faced and how you fixed it.
 * You must mention any kind of contribution of other mates.
-
-
-
 * 1. Simplify the following Boolean expression:
 ![tri](equ1.png)
 
@@ -46,6 +43,9 @@ Multiplexer, binary decoder, magnitude comparator, Adders (full & half-adder)
 
 * 4. A sequential logic circuit consists of two JK FFs as shown below. Assuming that both flip-flops are initially cleared, obtain the output signal waveforms Q1 and Q0 for 5 clock pulses.
 ![tri](diag1.png)
+
+
+
 
 
 ### Submitting
