@@ -4,7 +4,7 @@ course: "PUE 3141"
 category: "assignment"
 year: "2022"
 title:  "Assignment 1: General review of logic design"
-pdf: true
+pdf: false
 ---
 
 ## Deadline
