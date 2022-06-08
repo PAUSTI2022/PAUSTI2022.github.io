@@ -3,13 +3,13 @@ layout: page
 course: "PUE 3141"
 category: "assignment"
 year: "2022"
-title:  "Assignment 1: write VHDL entity and architcture"
-pdf: flase
+title:  "Assignment 1: General review of logic design"
+pdf: true
 ---
 
 ## Deadline
 
-Deadline for online submission will be  on  **Tuesday 08/06/2022 11:59 PM**
+Deadline for online submission will be  on  **Monday 20/06/2022 11:59 PM**
 
 ## Joining to Assignment Repository
 
@@ -22,17 +22,28 @@ This is an individual assignment
 
 ## Requirments
 
-Use the VHDL code implemented in lecture 1 and add the following steps:
+Use your background information and the information given to you today.
 1. xxxxxxxxxxxxx 
 2. xxxxxxxxxxxxx
 
 
 ## Important Notes 
-* You are allowed to discuss task problems with your mates. But code must be on your own.
-* You can get code lines from internet and include them in your own code and you must cite the source.
-* Sharing few code lines of your own with your classmates is allowed for identifying and fixing bugs, it is not allowed to see others solution before submitting.
+* You are allowed to discuss task problems with your mates.
+* It is not allowed to see others solution before submitting.
 * Report must include summary about your implementation, sample results and issues that you faced and how you fixed it.
 * You must mention any kind of contribution of other mates.
+
+
+
+* 1. Simplify the following Boolean expression:
+
+
+* 2. Give the following logic expressions as a function of minterms and hence simplify using a K-map.
+
+* 3. Review the following combinational logic modules (symbols & brief description):
+Multiplexer, binary decoder, magnitude comparator, Adders (full & half-adder)
+
+* 4. A sequential logic circuit consists of two JK FFs as shown below. Assuming that both flip-flops are initially cleared, obtain the output signal waveforms Q1 and Q0 for 5 clock pulses.
 
 ### Submitting
 
