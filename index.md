@@ -58,7 +58,7 @@ year: "2022"
    * Assignment: [Assignment-1]({{ site.baseurl }}{% link 2022/adv-digi-des/assignments/assignment1.md %}){:target="_blank"}
    
 * week 2:
-    * Introduction to VHDL. [Lecture notes] ({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/Introduction to VHDL.ppt %}){:target="_blank"}
+    * Introduction to VHDL. [Lecture notes] ({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/IntroductiontoVHDL.ppt %}){:target="_blank"}
     
 * week 3:
    
