@@ -65,7 +65,7 @@ year: "2022"
    
 * week 4:
   *  VHDL Data types and operators. [Lecture notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/BasicLanguageConstructsofVHDL2.ppt %}){:target="_blank"}
-  *  VHDL basic Simulation using ModelSim software (v. 6.5b)
+  *  VHDL basic Simulation using ModelSim software (v. 6.5b). [PDF notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/basicsimulation.pdf %}){:target="_blank"}
     
 * week 5:
    
@@ -75,5 +75,5 @@ year: "2022"
     
 * week 8:
     
-* week 8:
+* week 9:
     
