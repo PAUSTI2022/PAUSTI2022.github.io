@@ -77,6 +77,7 @@ year: "2022"
   * Sequential Signal Assignment Statements Part 2. [Lecture notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/SequentialStatements2.ppt %}){:target="_blank"}
     
 * week 8:
+  * Synthesis Of VHDL Code. [Lecture notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/SynthesisOfVHDLCode.ppt %}){:target="_blank"}
     
 * week 9:
     
