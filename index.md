@@ -46,6 +46,9 @@ year: "2022"
 ## Course Schedule
 * [Schedule]({{ site.baseurl }}{% link 2022/adv-digi-des/schedule.md %}){:target="_blank"}
 
+## Course Tools
+* ModelSim Software V 6.5b  [download link](https://drive.google.com/file/d/1-sTqYffOJRZtmF7JRJ57T-5o8Jtm_VkP/view?usp=sharing)
+
 ## References
 * [References]({{ site.baseurl }}{% link 2022/adv-digi-des/references.md %}){:target="_blank"}
 
