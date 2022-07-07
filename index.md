@@ -61,10 +61,11 @@ year: "2022"
     * Introduction to VHDL. [Lecture notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/IntroductiontoVHDL.ppt %}){:target="_blank"}
     
 * week 3:
-  * Basic Language Constructs of VHDL. [Lecture notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/BasicLanguageConstructsofVHDL.ppt %}){:target="_blank"}
+  * Basic Language Constructs of VHDL. [Lecture notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/BasicLanguageConstructsofVHDL1.ppt %}){:target="_blank"}
    
 * week 4:
-  *  VHDL Data type and operators. [Lecture notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/BasicLanguageConstructsofVHDL.ppt %}){:target="_blank"}
+  *  VHDL Data types and operators. [Lecture notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/BasicLanguageConstructsofVHDL2.ppt %}){:target="_blank"}
+  *  VHDL basic Simulation using ModelSim software (v. 6.5b)
     
 * week 5:
    
