@@ -68,7 +68,7 @@ year: "2022"
   *  VHDL basic Simulation using ModelSim software (v. 6.5b). [PDF notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/basicsimulation.pdf %}){:target="_blank"}
     
 * week 5:
- *  Concurrent Signal Assignment Statements. [Lecture notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/ConcurrentSignalAssignments.ppt %}){:target="_blank"}
+  *  Concurrent Signal Assignment Statements. [Lecture notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/ConcurrentSignalAssignments.ppt %}){:target="_blank"}
    
 * week 6:
     
