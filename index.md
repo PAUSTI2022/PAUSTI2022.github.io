@@ -71,8 +71,10 @@ year: "2022"
   *  Concurrent Signal Assignment Statements. [Lecture notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/ConcurrentSignalAssignments.ppt %}){:target="_blank"}
    
 * week 6:
+  * Sequential Signal Assignment Statements Part 1. [Lecture notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/SequentialStatements1.ppt %}){:target="_blank"}
     
 * week 7:
+  * Sequential Signal Assignment Statements Part 2. [Lecture notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/SequentialStatements2.ppt %}){:target="_blank"}
     
 * week 8:
     
