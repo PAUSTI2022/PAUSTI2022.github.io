@@ -46,6 +46,18 @@ Please check this page frequently for important announcements regarding course w
 | 5    | Programmable Logic and storage devices                                      |           |
 | 6    | Post-synthesis designs, simulation and testing of processors                |           |
 
+## Course Description
+
+
+## Motivation and Goals
+
+
+## Prerequisites
+
+
+## Grading Policy
+
+
 ## Course Schedule
 * [Schedule]({{ site.baseurl }}{% link 2022/adv-digi-des/schedule.md %}){:target="_blank"}
 
