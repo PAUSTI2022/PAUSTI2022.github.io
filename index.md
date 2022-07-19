@@ -56,8 +56,13 @@ Please check this page frequently for important announcements regarding course w
 
 
 ## Grading Policy
-
-
+   * Based on the University rules: there will be two in-class paper based exams (first & second mid-terms) in addition to the final exam. For all exams, exact dates and times are to be scheduled soon. However, our exam weights are:
+           ** First mid-term : 20%
+           ** Second mid-term : 20%
+           ** Final Exam: 40%
+    * Class Activities Including:
+           ** Homework Assignments & Pop Up Quizzes: 15%
+           ** Attendance and Participation 5%
 ## Course Schedule
 * [Schedule]({{ site.baseurl }}{% link 2022/adv-digi-des/schedule.md %}){:target="_blank"}
 
