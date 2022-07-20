@@ -50,7 +50,10 @@ Please check this page frequently for important announcements regarding course w
 * Overview of digital logic design methodology, Review of combinational and sequential logic designs with Flip Flops (FF), Finite State Machines (FSMs); Hardware    Description Languages (HDL): VHDL code structure and syntax; Definition of VHDL's concurrent and sequential modes. Concurrent and sequential statements in VHDL.    A systematic review of VHDL's data types and data attributes. Signals and variables in VHDL. Logic design with VHDL; Logic Design with Behavioural modelling,      Behavioural, data flow, and structural modelling of VHDL; Synthesis: Combinational logic, sequential logic, FSMs, Control structures, Design Traps; FSMs and the  corresponding VHDL coding techniques. Design and synthesis of data path controllers and floating point processors: partitioned sequential machines, Complex Instruction Set Computers (CISC), Reduced Instruction Set Computers (RISC) Stored Program Machine (SPM), Universal Asynchronous Receiver and Transmitter (UART); Programmable Logic and storage devices, PAL, programmability and complexity of PLDs, FPGAs, embeddable and programmable IP cores for system-on-a-chip, FPGA design with HDLs, FPGA synthesis; algorithms and architectures for digital processors and arithmetic processors: digital filters and signal processors, Controllers, Building blocks, pipelined architectures, buffers; Post-synthesis designs, simulation and testing of processors: design validation, timing verification, fault simulation and collapsing, design for testability.
 
 ## Motivation and Goals
-
+* At the end of the course, the student should be able to; 
+  * 1. Apply HDLs to design combinational and sequential logic circuits 
+  * 2. Apply system-on-chip (SoC) design methodologies, including high-level synthesis and partial run-time reconfiguration in the design of digital integrated circuits 
+  * 3. Design, verify and test working circuits suitable for Application-specific Integrated Circuit (ASIC) and/or FPGA implementation
 
 ## Prerequisites
 
