@@ -47,7 +47,7 @@ Please check this page frequently for important announcements regarding course w
 | 6    | Post-synthesis designs, simulation and testing of processors                |           |
 
 ## Course Description
-
+    Overview of digital logic design methodology, Review of combinational and sequential logic designs with Flip Flops (FF), Finite State Machines (FSMs); Hardware    Description Languages (HDL): VHDL code structure and syntax; Definition of VHDL's concurrent and sequential modes. Concurrent and sequential statements in VHDL.    A systematic review of VHDL's data types and data attributes. Signals and variables in VHDL. Logic design with VHDL; Logic Design with Behavioural modelling,      Behavioural, data flow, and structural modelling of VHDL; Synthesis: Combinational logic, sequential logic, FSMs, Control structures, Design Traps; FSMs and the  corresponding VHDL coding techniques. Design and synthesis of data path controllers and floating point processors: partitioned sequential machines, Complex Instruction Set Computers (CISC), Reduced Instruction Set Computers (RISC) Stored Program Machine (SPM), Universal Asynchronous Receiver and Transmitter (UART); Programmable Logic and storage devices, PAL, programmability and complexity of PLDs, FPGAs, embeddable and programmable IP cores for system-on-a-chip, FPGA design with HDLs, FPGA synthesis; algorithms and architectures for digital processors and arithmetic processors: digital filters and signal processors, Controllers, Building blocks, pipelined architectures, buffers; Post-synthesis designs, simulation and testing of processors: design validation, timing verification, fault simulation and collapsing, design for testability.
 
 ## Motivation and Goals
 
@@ -91,10 +91,11 @@ Please check this page frequently for important announcements regarding course w
   *  VHDL basic Simulation using ModelSim software (v. 6.5b). [PDF notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/basicsimulation.pdf %}){:target="_blank"}
     
 * week 5:
-  *  Combinational and Sequential Logic Designs with Verilog HDL. [Lecture notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/PUE_3141_Lecture_2.pdf %}){:target="_blank"}
+  *  Combinational Logic Designs with Verilog HDL. [Lecture notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/PUE_3141_Lecture_2.pdf %}){:target="_blank"}
   *  Concurrent Signal Assignment Statements. [Lecture notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/ConcurrentSignalAssignments.ppt %}){:target="_blank"}
    
 * week 6:
+   *  Sequential Logic Designs with Verilog HDL. [Lecture notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/PUE_3141_Lecture_3.pdf %}){:target="_blank"}
   * Sequential Signal Assignment Statements Part 1. [Lecture notes]({{ site.baseurl }}{% link 2022/adv-digi-des/presentations/SequentialStatements1.ppt %}){:target="_blank"}
     
 * week 7:
